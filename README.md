@@ -3,3 +3,6 @@ The Laser Cop Roomscale VR Game requires both a headset and controllers, but the
 
 ## Resources
 * [Introduction to Virtual Reality Workshop](https://assetstore.unity.com/packages/templates/tutorials/training-assets-intro-to-virtual-reality-workshop-starting-proje-120209s) - Training Assets
+
+## Screenshot
+ ![Screenshot](ss.png)
